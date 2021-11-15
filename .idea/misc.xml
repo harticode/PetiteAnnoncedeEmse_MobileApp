@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/drawable/logoSplashScreen_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/drawable/plus.xml" value="0.2703125" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout-v31/addcard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/activityNote.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/activity_authentification.xml" value="0.209375" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/activity_confession.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/activity_confessions.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/activity_main_fragement.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/activity_note.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/activity_setup_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/activity_splash_screen2.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/activitycard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/addcard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/addconfession.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/addusername.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/layout/editcard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harti/AppData/Local/Android/Sdk/PetitesannoncesdelEMSE/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "991841670031",
+    "project_id": "petites-annonces-de-l-emse",
+    "storage_bucket": "petites-annonces-de-l-emse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991841670031:android:3d7fce3a105a61db09f1fa",
+        "android_client_info": {
+          "package_name": "com.example.petitesannoncesdelemse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991841670031-t2v1bn521auiekkkr73b93mgl8r5fv2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petitesannoncesdelemse",
+            "certificate_hash": "240211ecdafa8d1f707ff9e4dc9d7948f35b18e6"
+          }
+        },
+        {
+          "client_id": "991841670031-7uhqujc1q518rhgu63b1rfi6hb4gpsb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMmwc1GwowZ3Q6h3rn5AyiQiOOzm_nsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991841670031-7uhqujc1q518rhgu63b1rfi6hb4gpsb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

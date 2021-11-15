@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Petites annonces de l\'EMSE</string>
+    <string name="sign_out">Sign Out</string>
+    <string-array name="options">
+        <item>item</item>
+    </string-array>
+</resources>
