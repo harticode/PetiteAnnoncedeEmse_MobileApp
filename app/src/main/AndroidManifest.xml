@@ -20,9 +20,6 @@
             android:name=".ConfessionsActivity"
             android:exported="false" />
         <activity
-            android:name=".fragments.MainFragement"
-            android:exported="false" />
-        <activity
             android:name=".SetupProfileActivity"
             android:exported="false" />
         <activity
